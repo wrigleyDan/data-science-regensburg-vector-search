@@ -1,0 +1,135 @@
+0	aa
+1	aa battery
+2	aaa
+3	adapter
+4	android tablet
+5	apple
+6	backpack
+7	batteries
+8	bluetooth headphones
+9	bluetooth speaker
+10	bluetooth speakers
+11	books
+12	brother tn-2110 toner
+13	calculator
+14	camera
+15	camera bag
+16	camera case
+17	cd drive
+18	cd player
+19	chromebook
+20	coffee
+21	computer
+22	computer desk
+23	computer fan
+24	d battery
+25	dell
+26	desk
+27	desktop
+28	digital camera
+29	docking station
+30	dvd player
+31	earbuds
+32	earphones
+33	extension cords
+34	external battery
+35	external cd drive
+36	external dvd drive
+37	external hard drive
+38	fan
+39	flashlight
+40	flat screen tv
+41	gaming keyboard
+42	gaming laptop
+43	gaming mouse
+44	gaming mouse pad
+45	gaming pc
+46	garmin
+47	google
+48	gps watch
+49	hdmi cable
+50	head set
+51	headphones
+52	headset
+53	huawei
+54	ipad
+55	ipad pro
+56	ipad stand
+57	iphone
+58	iphone 11
+59	iphone 7
+60	iphone 8
+61	iphone x
+62	iphone xr
+63	ipod
+64	keyboard
+65	lamp
+66	laptop
+67	laptop bag
+68	laptop case
+69	laptop stand
+70	laptops
+71	laser printer
+72	lenovo
+73	light board
+74	memory card
+75	memory stick
+76	micro sd card
+77	microsoft office
+78	microsoft surface
+79	microwave
+80	monitor
+81	mouse
+82	mouse pad
+83	nespresso vertuo
+84	netflix
+85	night light
+86	nintendo
+87	nintendo switch
+88	nintendo switch games
+89	notebook
+90	phone case
+91	phone charger
+92	phone cord
+93	phone stand
+94	playstation 4
+95	power bank
+96	printer
+97	pro controller
+98	projector
+99	projector screen
+100	ps4
+101	ps4 games
+102	ps4 pro
+103	radio
+104	rechargeable batteries
+105	rtx 2060
+106	samsung
+107	scanner
+108	sd card
+109	shoes
+110	smart watch
+111	smartphone
+112	smartwatch
+113	ssd
+114	stylus
+115	surround sound speakers
+116	switch
+117	tablet
+118	the boys
+119	touchscreen computer
+120	tripod
+121	tv
+122	usb battery
+123	usb fan
+124	usb gadget
+125	usb hub
+126	usb stick
+127	vans
+128	video camera
+129	windows 10
+130	wireless headphones
+131	wireless mouse
+132	xbox
+133	xbox one
+134	youtube
